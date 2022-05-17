@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class FaterLEkcjaGit {
+public class FaterLekcjaGit {
+    public static void main(String[] args) {
+        System.out.println("kalkulator");
+    }
 }
